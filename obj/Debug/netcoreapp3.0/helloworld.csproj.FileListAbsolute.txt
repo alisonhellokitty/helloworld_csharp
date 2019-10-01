@@ -9,3 +9,14 @@ C:\Users\Bjoern\repos\csharp\helloworld\helloworld\obj\Debug\netcoreapp3.0\hello
 C:\Users\Bjoern\repos\csharp\helloworld\helloworld\obj\Debug\netcoreapp3.0\helloworld.AssemblyInfo.cs
 C:\Users\Bjoern\repos\csharp\helloworld\helloworld\obj\Debug\netcoreapp3.0\helloworld.dll
 C:\Users\Bjoern\repos\csharp\helloworld\helloworld\obj\Debug\netcoreapp3.0\helloworld.pdb
+C:\Users\Bjoern\repos\csharp\helloworld\helloworld_csharp\bin\Debug\netcoreapp3.0\helloworld.exe
+C:\Users\Bjoern\repos\csharp\helloworld\helloworld_csharp\bin\Debug\netcoreapp3.0\helloworld.deps.json
+C:\Users\Bjoern\repos\csharp\helloworld\helloworld_csharp\bin\Debug\netcoreapp3.0\helloworld.runtimeconfig.json
+C:\Users\Bjoern\repos\csharp\helloworld\helloworld_csharp\bin\Debug\netcoreapp3.0\helloworld.runtimeconfig.dev.json
+C:\Users\Bjoern\repos\csharp\helloworld\helloworld_csharp\bin\Debug\netcoreapp3.0\helloworld.dll
+C:\Users\Bjoern\repos\csharp\helloworld\helloworld_csharp\bin\Debug\netcoreapp3.0\helloworld.pdb
+C:\Users\Bjoern\repos\csharp\helloworld\helloworld_csharp\obj\Debug\netcoreapp3.0\helloworld.csprojAssemblyReference.cache
+C:\Users\Bjoern\repos\csharp\helloworld\helloworld_csharp\obj\Debug\netcoreapp3.0\helloworld.AssemblyInfoInputs.cache
+C:\Users\Bjoern\repos\csharp\helloworld\helloworld_csharp\obj\Debug\netcoreapp3.0\helloworld.AssemblyInfo.cs
+C:\Users\Bjoern\repos\csharp\helloworld\helloworld_csharp\obj\Debug\netcoreapp3.0\helloworld.dll
+C:\Users\Bjoern\repos\csharp\helloworld\helloworld_csharp\obj\Debug\netcoreapp3.0\helloworld.pdb
